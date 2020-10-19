@@ -1,9 +1,21 @@
 * {
-  color: greenyellow;
+  color: whitesmoke;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h4 {
+  font-size: 50px;
 }
 
 body {
   background-color: #2c3e50;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .form,
